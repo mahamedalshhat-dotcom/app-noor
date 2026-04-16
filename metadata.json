@@ -1,0 +1,15 @@
+{
+  "name": "Noor Al-Huda | نور الهدى",
+  "description": "The Ultimate Offline-First Islamic App. Features a full Quran reader, smart prayer times, AI recitation correction, and spiritual tools with a focus on privacy and speed.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "screen-wake-lock"
+  ],
+  "majorCapabilities": [
+    "Offline-First Architecture",
+    "AI Recitation Correction",
+    "Smart Prayer Notifications",
+    "Local Quran Database"
+  ]
+}
